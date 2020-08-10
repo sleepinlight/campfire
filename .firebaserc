@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "campfire-f255d": {
+      "hosting": {
+        "campfire": [
+          "campfire-f255d"
+        ]
+      }
+    }
+  }
+}

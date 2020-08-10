@@ -1,0 +1,42 @@
+[debug] [2020-08-09T19:22:10.046Z] ----------------------------------------------------------------------
+[debug] [2020-08-09T19:22:10.049Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\acart\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-08-09T19:22:10.049Z] CLI Version:   8.7.0
+[debug] [2020-08-09T19:22:10.049Z] Platform:      win32
+[debug] [2020-08-09T19:22:10.049Z] Node Version:  v12.16.1
+[debug] [2020-08-09T19:22:10.052Z] Time:          Sun Aug 09 2020 14:22:10 GMT-0500 (Central Daylight Time)
+[debug] [2020-08-09T19:22:10.052Z] ----------------------------------------------------------------------
+[debug] [2020-08-09T19:22:10.052Z] 
+[debug] [2020-08-09T19:22:10.064Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-08-09T19:22:10.065Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\acart\OneDrive\Desktop\Code Projects\campfire
+
+[debug] [2020-08-09T19:38:07.718Z] ----------------------------------------------------------------------
+[debug] [2020-08-09T19:38:07.722Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\acart\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-08-09T19:38:07.722Z] CLI Version:   8.7.0
+[debug] [2020-08-09T19:38:07.722Z] Platform:      win32
+[debug] [2020-08-09T19:38:07.722Z] Node Version:  v12.16.1
+[debug] [2020-08-09T19:38:07.724Z] Time:          Sun Aug 09 2020 14:38:07 GMT-0500 (Central Daylight Time)
+[debug] [2020-08-09T19:38:07.724Z] ----------------------------------------------------------------------
+[debug] [2020-08-09T19:38:07.724Z] 
+[debug] [2020-08-09T19:38:07.735Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-08-09T19:38:07.736Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\acart\OneDrive\Desktop\Code Projects\campfire
+

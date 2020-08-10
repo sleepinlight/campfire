@@ -24,18 +24,23 @@
     "@angular/common": "~10.0.0",
     "@angular/compiler": "~10.0.0",
     "@angular/core": "~10.0.0",
+    "@angular/fire": "^6.0.2",
     "@angular/forms": "~10.0.0",
     "@angular/platform-browser": "~10.0.0",
     "@angular/platform-browser-dynamic": "~10.0.0",
     "@angular/router": "~10.0.0",
-    "core-js": "^2.6.9",
+    "@fortawesome/fontawesome-free": "^5.14.0",
     "@nativescript/angular": "~10.0.0",
     "@nativescript/core": "rc",
     "@nativescript/theme": "~2.2.1",
+    "bootstrap": "^4.5.2",
+    "core-js": "^2.6.9",
+    "jquery": "^3.5.1",
     "reflect-metadata": "~0.1.12",
     "rxjs": "~6.5.5",
     "tslib": "1.10.0",
-    "zone.js": "~0.10.2"
+    "zone.js": "~0.10.2",
+    "firebase": "^7.13.1"
   },
   "devDependencies": {
     "@angular/cli": "~10.0.0",
@@ -58,6 +63,20 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.9.0",
-    "node-sass": "^4.7.1"
+    "node-sass": "^4.7.1",
+    "@angular-devkit/architect": ">= 0.900 < 0.1100",
+    "firebase-tools": "^8.0.0",
+    "fuzzy": "^0.1.3",
+    "inquirer": "^6.2.2",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "open": "^7.0.3"
+  },
+  "prettier" : {
+    "singleQuote": true,
+    "printWidth": 150,
+    "semi": true,
+    "useTabs": true,
+    "bracketSpacing": true,
+    "arrowParens": "always"
   }
 }
